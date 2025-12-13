@@ -1,0 +1,1355 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DelayActive" preserve="all" />
+    <type fullname="fx_rotate" preserve="all" />
+    <type fullname="LayerLab.FantasyRPG.PanelFantasyRPG" preserve="all" />
+    <type fullname="MultipleObjectsMake" preserve="all" />
+    <type fullname="NewMaterialChange" preserve="all" />
+    <type fullname="ScaleFactorApplyToMaterial" preserve="all" />
+    <type fullname="VariousRotateObject" preserve="all" />
+    <type fullname="VideoHandler" preserve="all" />
+  </assembly>
+  <assembly fullname="BakeryRuntimeAssembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BakeryLightmappedPrefab" preserve="all" />
+    <type fullname="BakeryPointLight" preserve="all" />
+    <type fullname="BakerySkyLight" preserve="all" />
+    <type fullname="ftLightmapsStorage" preserve="all" />
+    <type fullname="ftGlobalStorage/AtlasPacker" preserve="nothing" serialized="true" />
+    <type fullname="ftLightmapsStorage/SectorData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineBasicMultiChannelPerlin" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
+    <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineConfiner" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTargetGroup" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="CinemachineShot" preserve="all" />
+    <type fullname="CinemachineTrack" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/NoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/TransformNoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineTargetGroup/Target" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="Coffee.UnmaskForUGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.Unmask" preserve="all" />
+    <type fullname="Coffee.UIExtensions.UnmaskRaycastFilter" preserve="all" />
+  </assembly>
+  <assembly fullname="DOTweenPro.Scripts, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+  </assembly>
+  <assembly fullname="gpm_ui, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Gpm.Ui.InfiniteScroll" preserve="all" />
+    <type fullname="Gpm.Ui.InfiniteScroll/ChangeValueEvent" preserve="nothing" serialized="true" />
+    <type fullname="Gpm.Ui.InfiniteScroll/ItemActiveEvent" preserve="nothing" serialized="true" />
+    <type fullname="Gpm.Ui.InfiniteScroll/StateChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="Gpm.Ui.ScrollLayout" preserve="nothing" serialized="true" />
+    <type fullname="Gpm.Ui.ScrollLayout/LayoutValue" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Feedbacks, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MoreMountains.Feedbacks.MMF_Player" preserve="all" />
+    <type fullname="MoreMountains.Feedbacks.MMPositionShaker" preserve="all" />
+    <type fullname="MoreMountains.Feedbacks.MMF_PositionShake" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMFeedbacksEvents" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="PrincessAssembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AccountExpElementUI" preserve="all" />
+    <type fullname="AccountInfoPopupUI" preserve="all" />
+    <type fullname="AccountLevelRankElementUI" preserve="all" />
+    <type fullname="AccumLoginRewardElementUI" preserve="all" />
+    <type fullname="AccumLoginRewardInfiniteScrollItem" preserve="all" />
+    <type fullname="AccumLoginRewardUI" preserve="all" />
+    <type fullname="AchievementEffectPopupUI" preserve="all" />
+    <type fullname="ActiveSkillCompanionHpRecovery" preserve="all" />
+    <type fullname="ActiveSkillDeffenceUp" preserve="all" />
+    <type fullname="ActiveSkillEffectBladeArmor" preserve="all" />
+    <type fullname="ActiveSkillEffectBladeCannon" preserve="all" />
+    <type fullname="ActiveSkillEffectBlizzard" preserve="all" />
+    <type fullname="ActiveSkillEffectBookOfDestruction" preserve="all" />
+    <type fullname="ActiveSkillEffectCompanionAtkDamageUp" preserve="all" />
+    <type fullname="ActiveSkillEffectCompanionAtkSpeedUp" preserve="all" />
+    <type fullname="ActiveSkillEffectDash" preserve="all" />
+    <type fullname="ActiveSkillEffectDoomsDayPoem" preserve="all" />
+    <type fullname="ActiveSkillEffectDragonBreath" preserve="all" />
+    <type fullname="ActiveSkillEffectDragonLightening" preserve="all" />
+    <type fullname="ActiveSkillEffectDragonRage" preserve="all" />
+    <type fullname="ActiveSkillEffectDragonSlave" preserve="all" />
+    <type fullname="ActiveSkillEffectElementalArrow" preserve="all" />
+    <type fullname="ActiveSkillEffectExplosion" preserve="all" />
+    <type fullname="ActiveSkillEffectFireArrow" preserve="all" />
+    <type fullname="ActiveSkillEffectFireWall" preserve="all" />
+    <type fullname="ActiveSkillEffectHighSpeedSword" preserve="all" />
+    <type fullname="ActiveSkillEffectIceArrow" preserve="all" />
+    <type fullname="ActiveSkillEffectIceBlast" preserve="all" />
+    <type fullname="ActiveSkillEffectLighteningArrow" preserve="all" />
+    <type fullname="ActiveSkillEffectLighteningWave" preserve="all" />
+    <type fullname="ActiveSkillEffectMeteo" preserve="all" />
+    <type fullname="ActiveSkillEffectMirrorWood" preserve="all" />
+    <type fullname="ActiveSkillEffectPlaceOfRest" preserve="all" />
+    <type fullname="ActiveSkillEffectPlayableRangeHit" preserve="all" />
+    <type fullname="ActiveSkillEffectShield" preserve="all" />
+    <type fullname="ActiveSkillEffectSkeletonGeneral" preserve="all" />
+    <type fullname="ActiveSkillEffectTargetsAttack" preserve="all" />
+    <type fullname="ActiveSkillEffectTeamBackup" preserve="all" />
+    <type fullname="ActiveSkillEffectThunderStorm" preserve="all" />
+    <type fullname="AdsMailElementUI" preserve="all" />
+    <type fullname="AdsRefreshTimer" preserve="all" />
+    <type fullname="AdsStoreBtnUI" preserve="all" />
+    <type fullname="AdsStoreElement" preserve="all" />
+    <type fullname="AdsStoreUI" preserve="all" />
+    <type fullname="AdsSummonBtnUI" preserve="all" />
+    <type fullname="AdvertisementPopupUI" preserve="all" />
+    <type fullname="AnimationHelper" preserve="all" />
+    <type fullname="AnotherSpecialPickupSelectElement" preserve="all" />
+    <type fullname="AnotherSpecialPickupSelectPopup" preserve="all" />
+    <type fullname="ApplySystemFont" preserve="all" />
+    <type fullname="AttributeElementUI" preserve="all" />
+    <type fullname="AttributePanel" preserve="all" />
+    <type fullname="AudioControlling.BGMAudioLibrarySO" preserve="all" />
+    <type fullname="AudioControlling.LoopAudioPlayer" preserve="all" />
+    <type fullname="AutoOpenSubSeasonalEvent" preserve="all" />
+    <type fullname="AutoPool.AP_Reference" preserve="all" />
+    <type fullname="AutoRefreshMonetaUI" preserve="all" />
+    <type fullname="AutoRefreshSeasonalEventMonetaUI" preserve="all" />
+    <type fullname="BaseRewardElementUI" preserve="all" />
+    <type fullname="BattleArenaScript" preserve="all" />
+    <type fullname="BattleBottomMenuUI" preserve="all" />
+    <type fullname="BattleCompanionContentsUI" preserve="all" />
+    <type fullname="BattleEquipmentContentsUI" preserve="all" />
+    <type fullname="BattleFaderObject" preserve="all" />
+    <type fullname="BattleIdleContentsUI" preserve="all" />
+    <type fullname="BattleLeftContentsUI" preserve="all" />
+    <type fullname="BattleManager" preserve="all" />
+    <type fullname="BattleMenuOpenerUI" preserve="all" />
+    <type fullname="BattlePowerChangedPopupUI" preserve="all" />
+    <type fullname="BattleRightMenuContentsUI" preserve="all" />
+    <type fullname="BattleStageInfoElement2UI" preserve="all" />
+    <type fullname="BattleStageInfoElementUI" preserve="all" />
+    <type fullname="BattleStageInfoPopupUI" preserve="all" />
+    <type fullname="BattleStageInfoUI" preserve="all" />
+    <type fullname="BattleStageRewardElementUI" preserve="all" />
+    <type fullname="BattleTimelineObjectManager" preserve="all" />
+    <type fullname="BattleUI" preserve="all" />
+    <type fullname="BelowZoneUI" preserve="all" />
+    <type fullname="BlockingBackButtonUI" preserve="all" />
+    <type fullname="BossDungeonStateUI" preserve="all" />
+    <type fullname="BossPreviewBase" preserve="all" />
+    <type fullname="BossRetryUI" preserve="all" />
+    <type fullname="BossRetryUIPopup" preserve="all" />
+    <type fullname="BossRushPopupUI" preserve="all" />
+    <type fullname="BossRushStageInfoUI" preserve="all" />
+    <type fullname="BossSpawnLineCheckBox" preserve="all" />
+    <type fullname="BossSpawnTimelineObject" preserve="all" />
+    <type fullname="BossWarningUI" preserve="all" />
+    <type fullname="BottomScrollGroupUI" preserve="all" />
+    <type fullname="BuffInfoElementUI_Blessing" preserve="all" />
+    <type fullname="BuffInfoElementUI_Guild" preserve="all" />
+    <type fullname="BuffInfoElementUI_SeasonalBlessing" preserve="all" />
+    <type fullname="BuffInfoElementUI_Subscription" preserve="all" />
+    <type fullname="BuffInfoElementUI_Synergy" preserve="all" />
+    <type fullname="BuffInfoPopupUI" preserve="all" />
+    <type fullname="BuffInfoUI" preserve="all" />
+    <type fullname="BuffSeenBlessingElementUI" preserve="all" />
+    <type fullname="BuffSeenElementUI" preserve="all" />
+    <type fullname="BuffSeenGuildElementUI" preserve="all" />
+    <type fullname="BuffSeenSeasonalBlessingElementUI" preserve="all" />
+    <type fullname="BuffSeenSubscriptionElementUI" preserve="all" />
+    <type fullname="BuffSeenSynergyElementUI" preserve="all" />
+    <type fullname="CameraConfiner" preserve="all" />
+    <type fullname="CameraModeButtonUI" preserve="all" />
+    <type fullname="CardStoreUI" preserve="all" />
+    <type fullname="CategoryOpenFlowMakeText" preserve="all" />
+    <type fullname="CategoryOpenFlowMakeVisible" preserve="all" />
+    <type fullname="ChainEffectDetailButton" preserve="all" />
+    <type fullname="ChainEffectDetailGroup" preserve="all" />
+    <type fullname="ChainEffectList" preserve="all" />
+    <type fullname="ChainEffectSlot" preserve="all" />
+    <type fullname="ChangeLanguagePopupUI" preserve="all" />
+    <type fullname="Character_LevelUp_Panel" preserve="all" />
+    <type fullname="CharacterAnimationControlBase" preserve="all" />
+    <type fullname="CharacterDressUpPopupUI" preserve="all" />
+    <type fullname="CharacterEquipmentBottomButtonUI" preserve="all" />
+    <type fullname="CharacterEquipmentDetailInfoPopupUI" preserve="all" />
+    <type fullname="CharacterEquipmentToggleUI" preserve="all" />
+    <type fullname="CharacterEquipmentUI" preserve="all" />
+    <type fullname="CharacterEquipmentWarningUI" preserve="all" />
+    <type fullname="CharacterGrowthStarCollection" preserve="all" />
+    <type fullname="CharacterInfoRenderGroup" preserve="all" />
+    <type fullname="CharacterMasteryElementUI" preserve="all" />
+    <type fullname="CharacterMasteryLineGroupUI" preserve="all" />
+    <type fullname="CharacterMasteryUI" preserve="all" />
+    <type fullname="CharacterOwnEffectElementUI" preserve="all" />
+    <type fullname="CharacterPopupUI" preserve="all" />
+    <type fullname="CharacterSkillDetailPopupInfoUI" preserve="all" />
+    <type fullname="CharacterSkillDetailPopupSpecialElementUI" preserve="all" />
+    <type fullname="CharacterSkillDetailPopupSpecialUI" preserve="all" />
+    <type fullname="CharacterSkillDetailPopupUI" preserve="all" />
+    <type fullname="CharacterSkillElementUI" preserve="all" />
+    <type fullname="CharacterSkillSlotUI" preserve="all" />
+    <type fullname="CharacterSkillUI" preserve="all" />
+    <type fullname="CharacterUnitBase" preserve="all" />
+    <type fullname="CharacterViewUI" preserve="all" />
+    <type fullname="ChargeGaugeUI" preserve="all" />
+    <type fullname="ChargeSliderUI" preserve="all" />
+    <type fullname="ChatController" preserve="all" />
+    <type fullname="ChatElementUI" preserve="all" />
+    <type fullname="ChatMsgElementUI" preserve="all" />
+    <type fullname="ChatPopupUI" preserve="all" />
+    <type fullname="ChatSummaryUI" preserve="all" />
+    <type fullname="CheatButtonUI" preserve="all" />
+    <type fullname="CheatCompanionListControllerUI" preserve="all" />
+    <type fullname="CheatDataUI" preserve="all" />
+    <type fullname="CheatDungeonInfoElementUI" preserve="all" />
+    <type fullname="CheatDungeonListControllerUI" preserve="all" />
+    <type fullname="CheatEquipListControllerUI" preserve="all" />
+    <type fullname="CheatEtcListControllerUI" preserve="all" />
+    <type fullname="CheatETCModifyPopupUI" preserve="all" />
+    <type fullname="CheatMonetaInfoElementUI" preserve="all" />
+    <type fullname="CheatMonetaListControllerUI" preserve="all" />
+    <type fullname="CheatMonetaModifyPopupUI" preserve="all" />
+    <type fullname="CheatTypeElementUI" preserve="all" />
+    <type fullname="CheatUI" preserve="all" />
+    <type fullname="CinemaBattlePauseClip" preserve="all" />
+    <type fullname="CinemaBattlePauseTrack" preserve="all" />
+    <type fullname="CinemaBattleTweenClip" preserve="all" />
+    <type fullname="CinemaBattleTweenTrack" preserve="all" />
+    <type fullname="CinemachineCameraGroup" preserve="all" />
+    <type fullname="CollectionBookLayerElement" preserve="all" />
+    <type fullname="CollectionBookLayerGroup" preserve="all" />
+    <type fullname="CollectionBookLayerGroup_Transformation" preserve="all" />
+    <type fullname="CollectionBookUI" preserve="all" />
+    <type fullname="CollectionBookUI_Transformation" preserve="all" />
+    <type fullname="Common3ConditionBtn" preserve="all" />
+    <type fullname="CommonBannerList" preserve="all" />
+    <type fullname="CommonBattleFieldMainRewardPopup" preserve="all" />
+    <type fullname="CommonBtn" preserve="all" />
+    <type fullname="CommonCashGoodsPurchaseButtonUI" preserve="all" />
+    <type fullname="CommonConfirmPopupUI" preserve="all" />
+    <type fullname="CommonEffectDescUI" preserve="all" />
+    <type fullname="CommonExitText" preserve="all" />
+    <type fullname="CommonIconTab" preserve="all" />
+    <type fullname="CommonIconText" preserve="all" />
+    <type fullname="CommonInfoPanel" preserve="all" />
+    <type fullname="CommonInfoPopupUI" preserve="all" />
+    <type fullname="CommonInfoPopupUIBtn" preserve="all" />
+    <type fullname="CommonItemElementUI" preserve="all" />
+    <type fullname="CommonLanguageBtn" preserve="all" />
+    <type fullname="CommonLeftRightBtn" preserve="all" />
+    <type fullname="CommonListFrame" preserve="all" />
+    <type fullname="CommonNextGoalPanel" preserve="all" />
+    <type fullname="CommonPanelGroup" preserve="all" />
+    <type fullname="CommonPoint" preserve="all" />
+    <type fullname="CommonPointList" preserve="all" />
+    <type fullname="CommonProfile" preserve="all" />
+    <type fullname="CommonPurchaseButtonUI" preserve="all" />
+    <type fullname="CommonRewardElementUI" preserve="all" />
+    <type fullname="CommonRewardPopup" preserve="all" />
+    <type fullname="CommonSlider" preserve="all" />
+    <type fullname="CommonStatInfoElementUI" preserve="all" />
+    <type fullname="CommonTabGroup" preserve="all" />
+    <type fullname="CommonToggle" preserve="all" />
+    <type fullname="CommonToolTip" preserve="all" />
+    <type fullname="CommonToolTipFixed" preserve="all" />
+    <type fullname="CommonUpgradeButtonUI" preserve="all" />
+    <type fullname="CommonUseMonetaButton" preserve="all" />
+    <type fullname="CommunityButtonUI" preserve="all" />
+    <type fullname="CompanionBuffSkill" preserve="all" />
+    <type fullname="CompanionDamageMeterElementUI" preserve="all" />
+    <type fullname="CompanionDamageMeterUI" preserve="all" />
+    <type fullname="CompanionDeckElementUI" preserve="all" />
+    <type fullname="CompanionDeployPopupUI" preserve="all" />
+    <type fullname="CompanionDeploySlotUI" preserve="all" />
+    <type fullname="CompanionDetailInfoPopupUI" preserve="all" />
+    <type fullname="CompanionElementInfoUI" preserve="all" />
+    <type fullname="CompanionElementUI" preserve="all" />
+    <type fullname="CompanionIconBtn" preserve="all" />
+    <type fullname="CompanionPickupSelectButtonDataScrollViewUI" preserve="all" />
+    <type fullname="CompanionPickupWindowSelectButtonUI" preserve="all" />
+    <type fullname="CompanionPopupUI" preserve="all" />
+    <type fullname="CompanionRevertToTheBegining" preserve="all" />
+    <type fullname="CompanionReviveElementUI" preserve="all" />
+    <type fullname="CompanionReviveUI" preserve="all" />
+    <type fullname="CompanionSkillIconUI" preserve="all" />
+    <type fullname="CompanionSkillInfoUI" preserve="all" />
+    <type fullname="CompanionSlotList" preserve="all" />
+    <type fullname="CompanionSlotLockUI" preserve="all" />
+    <type fullname="CompanionSpecialDetailPopupUI" preserve="all" />
+    <type fullname="CompanionsSummonProgressElementUI" preserve="all" />
+    <type fullname="CompanionStoreUI" preserve="all" />
+    <type fullname="CompanionSummonWindowUI_Normal" preserve="all" />
+    <type fullname="CompanionTypeTagUI" preserve="all" />
+    <type fullname="CompanionUpgradePopupLevelUpUI" preserve="all" />
+    <type fullname="CompanionUpgradePopupSpecialElementUI" preserve="all" />
+    <type fullname="CompanionUpgradePopupSpecialUI" preserve="all" />
+    <type fullname="CompanionUpgradePopupUI" preserve="all" />
+    <type fullname="CompareEquipmentBattlePowerChangeUI" preserve="all" />
+    <type fullname="CompareEquipmentInfoUI" preserve="all" />
+    <type fullname="CompareEquipmentOptionUI" preserve="all" />
+    <type fullname="CompareEquipmentStackElementUI" preserve="all" />
+    <type fullname="CompareEquipmentStackUI" preserve="all" />
+    <type fullname="CompleteOptionIconElementUI" preserve="all" />
+    <type fullname="CompleteRewardReceivePopupUI" preserve="all" />
+    <type fullname="ConsumptionEventBannerStageRankingUI" preserve="all" />
+    <type fullname="ConsumptionEventBannerUI" preserve="all" />
+    <type fullname="ConsumptionEventButtonUI" preserve="all" />
+    <type fullname="ConsumptionEventEntryPopupUI" preserve="all" />
+    <type fullname="ConsumptionEventEventStorePopup" preserve="all" />
+    <type fullname="ConsumptionEventMissionPopup" preserve="all" />
+    <type fullname="ConsumptionEventPopupUI" preserve="all" />
+    <type fullname="ConsumptionEventQuestElementUI" preserve="all" />
+    <type fullname="ConsumptionEventRankUI" preserve="all" />
+    <type fullname="ConsumptionEventRewardInfoElementUI" preserve="all" />
+    <type fullname="ConsumptionEventRewardUI" preserve="all" />
+    <type fullname="ConsumptionEventSpecialProductPanel" preserve="all" />
+    <type fullname="ConsumptionEventStoreGoodsElementUI" preserve="all" />
+    <type fullname="ConsumptionEventStorePopupUI" preserve="all" />
+    <type fullname="ConsumptionEventSupplyShopElementUI" preserve="all" />
+    <type fullname="ConsumptionEventTopTierUI" preserve="all" />
+    <type fullname="ConsumptionEventUserInfoUI" preserve="all" />
+    <type fullname="Contents_TimeCondition" preserve="all" />
+    <type fullname="ContentsDictionaryElementUI" preserve="all" />
+    <type fullname="ContentsDictionaryGroupNameUI" preserve="all" />
+    <type fullname="ContentsDictionaryPopupUI" preserve="all" />
+    <type fullname="ContentsFailPopupUI" preserve="all" />
+    <type fullname="ContentsGroupPopupUI" preserve="all" />
+    <type fullname="ContentsLock_Anvil" preserve="all" />
+    <type fullname="ContentsLock_FlagCondition" preserve="all" />
+    <type fullname="ContentsLock_Hide" preserve="all" />
+    <type fullname="ContentsLock_Show" preserve="all" />
+    <type fullname="ContentsLockBaseUI" preserve="all" />
+    <type fullname="ContentsLockUI" preserve="all" />
+    <type fullname="ContentsOpenButtonUI" preserve="all" />
+    <type fullname="ContentsOpenElementUI" preserve="all" />
+    <type fullname="ContentsOpenInfiniteScrollItem" preserve="all" />
+    <type fullname="ContentsOpenListBtnAnim" preserve="all" />
+    <type fullname="ContentsOpenPopupUI" preserve="all" />
+    <type fullname="ContentsOpenShowUI" preserve="all" />
+    <type fullname="ContentsResearchCenter" preserve="all" />
+    <type fullname="ContinuouslyButtonUI" preserve="all" />
+    <type fullname="CostumeEquipItemUI" preserve="all" />
+    <type fullname="CostumeEventBackgroundUI" preserve="all" />
+    <type fullname="CostumeEventInfoGroupUI" preserve="all" />
+    <type fullname="CrowdCheckBox" preserve="all" />
+    <type fullname="CrowdGroup" preserve="all" />
+    <type fullname="CubeRushPopupUI" preserve="all" />
+    <type fullname="CutSceneSystem" preserve="all" />
+    <type fullname="CutSceneToggleUI" preserve="all" />
+    <type fullname="DailyQuestScrollUI" preserve="all" />
+    <type fullname="DailyRewardElementUI" preserve="all" />
+    <type fullname="DailyRewardPopupUI" preserve="all" />
+    <type fullname="DailyWeeklyStoreUI" preserve="all" />
+    <type fullname="DamageNumberGroupUI" preserve="all" />
+    <type fullname="DamageNumberUI" preserve="all" />
+    <type fullname="DamageNumberUIAdditionalDamage" preserve="all" />
+    <type fullname="DamageNumberUIHumanDamage" preserve="all" />
+    <type fullname="DataDownloadWarningUI" preserve="all" />
+    <type fullname="DeadLineBlock" preserve="all" />
+    <type fullname="DefeatBossResultUI" preserve="all" />
+    <type fullname="DefeatFeverSlaughterUI" preserve="all" />
+    <type fullname="DefeatGradeElementUI" preserve="all" />
+    <type fullname="DefeatQuestInfoUI" preserve="all" />
+    <type fullname="DefeatQuestRewardInfoElementBuffGroup" preserve="all" />
+    <type fullname="DefeatQuestRewardInfoElementItemGroup" preserve="all" />
+    <type fullname="DefeatQuestRewardInfoElementUI" preserve="all" />
+    <type fullname="DefeatQuestRewardInfoPopupUI" preserve="all" />
+    <type fullname="DefeatQuestRewardUI" preserve="all" />
+    <type fullname="DefeatQuestTitleUI" preserve="all" />
+    <type fullname="DefeatQuestUI" preserve="all" />
+    <type fullname="DepartureSupplyElementUI" preserve="all" />
+    <type fullname="DeploySkillUI" preserve="all" />
+    <type fullname="DescendingOrderButtonUI" preserve="all" />
+    <type fullname="DescStackedProgressBarUI" preserve="all" />
+    <type fullname="DiceRushStageInfoUI" preserve="all" />
+    <type fullname="Dominion" preserve="all" />
+    <type fullname="DominionAssignCompanionElementUI" preserve="all" />
+    <type fullname="DominionAssignSlotUnLockButtonUI" preserve="all" />
+    <type fullname="DominionAssignSlotUnLockPopupUI" preserve="all" />
+    <type fullname="DominionDetailInfo" preserve="all" />
+    <type fullname="DominionLevelUpButtonUI" preserve="all" />
+    <type fullname="DownloadSlider" preserve="all" />
+    <type fullname="DrawingEventElementUI" preserve="all" />
+    <type fullname="DrawingEventPopupUI" preserve="all" />
+    <type fullname="DungeonBattleStatusUI" preserve="all" />
+    <type fullname="DungeonClearLuckyDicePopupUI" preserve="all" />
+    <type fullname="DungeonClearPopupUI" preserve="all" />
+    <type fullname="DungeonEntryPopupUI" preserve="all" />
+    <type fullname="DungeonEntryUI" preserve="all" />
+    <type fullname="DungeonEvent2EntryGroupUI" preserve="all" />
+    <type fullname="DungeonHardEntryGroupUI" preserve="all" />
+    <type fullname="DungeonIntroMsgBoxUI" preserve="all" />
+    <type fullname="DungeonNormalEntryGroupUI" preserve="all" />
+    <type fullname="DungeonPopupUI" preserve="all" />
+    <type fullname="DungeonRecommendSkillList" preserve="all" />
+    <type fullname="DungeonSkillDeckPopupUI" preserve="all" />
+    <type fullname="DungeonSkillUI_recommend" preserve="all" />
+    <type fullname="DungeonSweepPopupUI" preserve="all" />
+    <type fullname="DuskWorkShop_CheckFitRequirements_Icon" preserve="all" />
+    <type fullname="DuskWorkShopArtifactEncyclopediaItem" preserve="all" />
+    <type fullname="DuskWorkShopArtifactEncyclopediaItemGroup" preserve="all" />
+    <type fullname="DuskWorkShopArtifactEncyclopediaPopup" preserve="all" />
+    <type fullname="DuskWorkShopButtonController" preserve="all" />
+    <type fullname="DuskWorkShopCheckFitPopup" preserve="all" />
+    <type fullname="DuskWorkShopItemElementUI" preserve="all" />
+    <type fullname="DuskWorkShopItemLinkageEffectInfoUI" preserve="all" />
+    <type fullname="DuskWorkShopItemManagePopupUI" preserve="all" />
+    <type fullname="DuskWorkShopItemProductionPopupUI" preserve="all" />
+    <type fullname="DuskWorkShopPopupUI" preserve="all" />
+    <type fullname="DuskWorkShopProductionCompletePopupUI" preserve="all" />
+    <type fullname="EffectTitleTextUI" preserve="all" />
+    <type fullname="ElfForestRushPopupUI" preserve="all" />
+    <type fullname="EmoticonDialog" preserve="all" />
+    <type fullname="EmoticonElementUI" preserve="all" />
+    <type fullname="EmptyUIForReposition" preserve="all" />
+    <type fullname="EnemyInfoPopuUI" preserve="all" />
+    <type fullname="EnhanceResultElementUI" preserve="all" />
+    <type fullname="EnhanceResultElementUI_Promote" preserve="all" />
+    <type fullname="EnhanceResultUI" preserve="all" />
+    <type fullname="EntranceBackgroundUI" preserve="all" />
+    <type fullname="EntranceCommunityButtonUI" preserve="all" />
+    <type fullname="EntranceUI" preserve="all" />
+    <type fullname="EquipDropGradeInfoUI" preserve="all" />
+    <type fullname="EquipItemInfoUI" preserve="all" />
+    <type fullname="EquipItemSlotLockUI" preserve="all" />
+    <type fullname="EquipItemUI" preserve="all" />
+    <type fullname="EquipmentCompareHorizontalUI" preserve="all" />
+    <type fullname="EquipmentDetailInfoPopupUI" preserve="all" />
+    <type fullname="EquipmentDropGradePopupUI" preserve="all" />
+    <type fullname="EquipmentEffectCompareViewUI" preserve="all" />
+    <type fullname="EquipmentExpUI" preserve="all" />
+    <type fullname="EquipmentGoldShowUI" preserve="all" />
+    <type fullname="EquipmentGradeLevelupStepElementUI" preserve="all" />
+    <type fullname="EquipmentItemElementUI" preserve="all" />
+    <type fullname="EquipmentPresetGroupElementUI" preserve="all" />
+    <type fullname="EquipmentPresetSelectPopupUI" preserve="all" />
+    <type fullname="EquipmentPropertyElementUI" preserve="all" />
+    <type fullname="EquipmentPropertyPopupUI" preserve="all" />
+    <type fullname="EquippedCharacterSkillElementUI" preserve="all" />
+    <type fullname="EquipSetEffectViewUI" preserve="all" />
+    <type fullname="EventButtonTimerUIBase" preserve="all" />
+    <type fullname="EventScheduleShowPopupUI" preserve="all" />
+    <type fullname="EvolutionIcon" preserve="all" />
+    <type fullname="EvolutionRushPopupUI" preserve="all" />
+    <type fullname="FastPlayToggleUI" preserve="all" />
+    <type fullname="FeverAttackObject" preserve="all" />
+    <type fullname="FeverButtonUI" preserve="all" />
+    <type fullname="FeverComboCountUI" preserve="all" />
+    <type fullname="FeverSlaughterRewardPopup" preserve="all" />
+    <type fullname="FeverSoul" preserve="all" />
+    <type fullname="FieldPropertyElement" preserve="all" />
+    <type fullname="FieldPropertyGroup" preserve="all" />
+    <type fullname="ForceDisableLocalBundleRelateAsset" preserve="all" />
+    <type fullname="FormationBuffIconUI" preserve="all" />
+    <type fullname="FormationRecommandIconUI" preserve="all" />
+    <type fullname="FrameChecker" preserve="all" />
+    <type fullname="FrameDelayedLayoutRebuilder" preserve="all" />
+    <type fullname="FriendElementUI" preserve="all" />
+    <type fullname="FriendPopupUI" preserve="all" />
+    <type fullname="FullPopup_Middle_info" preserve="all" />
+    <type fullname="FX_Hit_Tower" preserve="all" />
+    <type fullname="GamePotController" preserve="all" />
+    <type fullname="GamePotCouponPopup" preserve="all" />
+    <type fullname="GamePotModuleTest" preserve="all" />
+    <type fullname="GemIconForTween" preserve="all" />
+    <type fullname="GemPopup" preserve="all" />
+    <type fullname="GemRewardItem" preserve="all" />
+    <type fullname="GemRewardScrollItem" preserve="all" />
+    <type fullname="GlobalRaidBattleUI" preserve="all" />
+    <type fullname="GlobalRaidBossWarningRegion" preserve="all" />
+    <type fullname="GlobalRaidButtonScheduleUI" preserve="all" />
+    <type fullname="GlobalRaidButtonUI" preserve="all" />
+    <type fullname="GlobalRaidCamera" preserve="all" />
+    <type fullname="GlobalRaidCameraGroup" preserve="all" />
+    <type fullname="GlobalRaidChannelElementUI" preserve="all" />
+    <type fullname="GlobalRaidChannelUI" preserve="all" />
+    <type fullname="GlobalRaidCharacterRaycasterUI" preserve="all" />
+    <type fullname="GlobalRaidChatController" preserve="all" />
+    <type fullname="GlobalRaidDropItem" preserve="all" />
+    <type fullname="GlobalRaidDropRewardInfoElementUI" preserve="all" />
+    <type fullname="GlobalRaidDropRewardInfoItemElementUI" preserve="all" />
+    <type fullname="GlobalRaidInventoryElementUI" preserve="all" />
+    <type fullname="GlobalRaidInventoryPopupUI" preserve="all" />
+    <type fullname="GlobalRaidLeaderBoardElementUI" preserve="all" />
+    <type fullname="GlobalRaidLeaderBoardUI" preserve="all" />
+    <type fullname="GlobalRaidLoadingPopupUI" preserve="all" />
+    <type fullname="GlobalRaidNpcRadarSystem" preserve="all" />
+    <type fullname="GlobalRaidPopupUI" preserve="all" />
+    <type fullname="GlobalRaidRadarSystem" preserve="all" />
+    <type fullname="GlobalRaidRankRewardInfoElementUI" preserve="all" />
+    <type fullname="GlobalRaidResultPopupUI" preserve="all" />
+    <type fullname="GlobalRaidRewardInfoPopupUI" preserve="all" />
+    <type fullname="GlobalRaidSeasonInfoBossElementUI" preserve="all" />
+    <type fullname="GlobalRaidSeasonInfoPopupUI" preserve="all" />
+    <type fullname="GlobalRaidSeasonInfoScheduleElementUI" preserve="all" />
+    <type fullname="GlobalRaidSkillGroupUI" preserve="all" />
+    <type fullname="GlobalRaidStandbyUI" preserve="all" />
+    <type fullname="GlobalRaidUserDyingPopupUI" preserve="all" />
+    <type fullname="GoldRushPopupUI" preserve="all" />
+    <type fullname="GoldRushStageInfoUI" preserve="all" />
+    <type fullname="GolemPreview" preserve="all" />
+    <type fullname="GolemRemainTimerUtil" preserve="all" />
+    <type fullname="GolemSeasonRewardInfoElementUI" preserve="all" />
+    <type fullname="GolemWeeklyRankPopupUI" preserve="all" />
+    <type fullname="GradedBackgroundUI" preserve="all" />
+    <type fullname="GradedFrameUI_Effect" preserve="all" />
+    <type fullname="GradeTextGroupUI" preserve="all" />
+    <type fullname="GradeTextUI" preserve="all" />
+    <type fullname="GrowthRecommandElementUI" preserve="all" />
+    <type fullname="GrowthRecommandStageSuppressionRedDot" preserve="all" />
+    <type fullname="GrowthRecommandUsingMonetaRedDot" preserve="all" />
+    <type fullname="GuideInfoElementUI" preserve="all" />
+    <type fullname="GuidePressHoldFingerUI" preserve="all" />
+    <type fullname="GuidePressHoldQuestUI" preserve="all" />
+    <type fullname="GuideTouchArea" preserve="all" />
+    <type fullname="GuideTouchFingerUI" preserve="all" />
+    <type fullname="GuideTouchRectUI" preserve="all" />
+    <type fullname="GuildBuffElementUI" preserve="all" />
+    <type fullname="GuildBuffInfoUI" preserve="all" />
+    <type fullname="GuildCreationPopupUI" preserve="all" />
+    <type fullname="GuildDetailInfoPopupUI" preserve="all" />
+    <type fullname="GuildDetailInfoUI" preserve="all" />
+    <type fullname="GuildDonationPopupUI" preserve="all" />
+    <type fullname="GuildEmblemElementUI" preserve="all" />
+    <type fullname="GuildInfoPopupUI" preserve="all" />
+    <type fullname="GuildLeaderChangeNotice" preserve="all" />
+    <type fullname="GuildListElementUI" preserve="all" />
+    <type fullname="GuildListUI" preserve="all" />
+    <type fullname="GuildManageMemberElementUI" preserve="all" />
+    <type fullname="GuildManagementPopup" preserve="all" />
+    <type fullname="GuildManageRequestElementUI" preserve="all" />
+    <type fullname="GuildMemberElementUI" preserve="all" />
+    <type fullname="GuildMemberInfoUI" preserve="all" />
+    <type fullname="GuildMemberManagementPopup" preserve="all" />
+    <type fullname="GuildMemberManagePopupUI" preserve="all" />
+    <type fullname="GuildMembershipHistoryUI" preserve="all" />
+    <type fullname="GuildNoticeChangeGroup" preserve="all" />
+    <type fullname="GuildPopupUI" preserve="all" />
+    <type fullname="GuildQuestElementUI" preserve="all" />
+    <type fullname="GuildQuestPopupUI" preserve="all" />
+    <type fullname="GuildRaidBossPreview" preserve="all" />
+    <type fullname="GuildRaidButtonUI" preserve="all" />
+    <type fullname="GuildRaidCloseInfoPopupUI" preserve="all" />
+    <type fullname="GuildRaidRankElementUI" preserve="all" />
+    <type fullname="GuildRaidRushEntryPopupUI" preserve="all" />
+    <type fullname="GuildRaidRushPopupUI" preserve="all" />
+    <type fullname="GuildRankElementUI" preserve="all" />
+    <type fullname="GuildRankPopupUI" preserve="all" />
+    <type fullname="GuildSeasonLevelRewardInfoElementUI" preserve="all" />
+    <type fullname="GuildSeasonLevelRewardPopupUI" preserve="all" />
+    <type fullname="GuildSeasonRewardInfoElementUI" preserve="all" />
+    <type fullname="GuildSeasonRewardPopupUI" preserve="all" />
+    <type fullname="GuildShopGoodsElementUI" preserve="all" />
+    <type fullname="GuildShopPopupUI" preserve="all" />
+    <type fullname="HeroBanner" preserve="all" />
+    <type fullname="HorizontalLayoutGroup_Stage" preserve="all" />
+    <type fullname="HUDRankUI" preserve="all" />
+    <type fullname="IdleTimeRewardPopupUI" preserve="all" />
+    <type fullname="IndexFinger" preserve="all" />
+    <type fullname="InfiniteTowerTutorialUI" preserve="all" />
+    <type fullname="IngameProduction" preserve="all" />
+    <type fullname="InputBlocker" preserve="all" />
+    <type fullname="IntroCinema" preserve="all" />
+    <type fullname="IntroCinemaObject" preserve="all" />
+    <type fullname="IntroContentsPopupUI" preserve="all" />
+    <type fullname="IntroLog" preserve="all" />
+    <type fullname="ItemComparerPopupUI" preserve="all" />
+    <type fullname="ItemMonetaElementUI" preserve="all" />
+    <type fullname="ItemNaviInfoButtonUI" preserve="all" />
+    <type fullname="ItemNaviPopupUI" preserve="all" />
+    <type fullname="ItemPopupUI" preserve="all" />
+    <type fullname="ItemRushPopupUI" preserve="all" />
+    <type fullname="ItemRushStageInfoUI" preserve="all" />
+    <type fullname="ItemSoul" preserve="all" />
+    <type fullname="JoyPad" preserve="all" />
+    <type fullname="KeepAliveWaitPopupUI" preserve="all" />
+    <type fullname="KillTilteGainShowUI" preserve="all" />
+    <type fullname="KillTitleButton" preserve="all" />
+    <type fullname="KillTitleElementUI" preserve="all" />
+    <type fullname="KillTitleMonsterWaveGroup" preserve="all" />
+    <type fullname="KillTitlePopupUI" preserve="all" />
+    <type fullname="LeftTimeTextUI" preserve="all" />
+    <type fullname="LeftTimeTimerUI" preserve="all" />
+    <type fullname="LevelGroup" preserve="all" />
+    <type fullname="LevelRestriction" preserve="all" />
+    <type fullname="LightModifierBySkill" preserve="all" />
+    <type fullname="LimitedPickupEventAccumCountUI" preserve="all" />
+    <type fullname="LimitedPickupEventButtonUI" preserve="all" />
+    <type fullname="LimitedPickupEventCurrentRewardUI" preserve="all" />
+    <type fullname="LimitedPickupEventItemUI" preserve="all" />
+    <type fullname="LimitedPickupEventPopupUI" preserve="all" />
+    <type fullname="LimitedPickupEventProbContentUI" preserve="all" />
+    <type fullname="LimitedPickupEventProbElementUI" preserve="all" />
+    <type fullname="LimitedPickupEventProbInfoPopupUI" preserve="all" />
+    <type fullname="LimitedPickupEventQuestPopupUI" preserve="all" />
+    <type fullname="LimitedPickupEventQuestQuestElement" preserve="all" />
+    <type fullname="LimitedPickupSupplyShopAdsElementUI" preserve="all" />
+    <type fullname="LimitedPickupSupplyShopElement" preserve="all" />
+    <type fullname="LimitedPickupSupplyShopFreeElementUI" preserve="all" />
+    <type fullname="LimitedPickupSupplyShopPopupUI" preserve="all" />
+    <type fullname="LineDraws" preserve="all" />
+    <type fullname="LoadingUI" preserve="all" />
+    <type fullname="LocalizeStringScriptBase" preserve="all" />
+    <type fullname="LoginOptionPopupUI" preserve="all" />
+    <type fullname="LoginUI" preserve="all" />
+    <type fullname="LuckyDiceClearRewardElementUI" preserve="all" />
+    <type fullname="MailDetailPopupUI" preserve="all" />
+    <type fullname="MailElementUI" preserve="all" />
+    <type fullname="MailPopupUI" preserve="all" />
+    <type fullname="MailRewardElementUI" preserve="all" />
+    <type fullname="MainCameraBillboardInjection" preserve="all" />
+    <type fullname="MainCameraController" preserve="all" />
+    <type fullname="MainCanvas" preserve="all" />
+    <type fullname="MaintenanceGamePotUI" preserve="all" />
+    <type fullname="MaintenanceUI" preserve="all" />
+    <type fullname="MapBlock" preserve="all" />
+    <type fullname="MaskCompanion" preserve="all" />
+    <type fullname="MasteryEnhanceButtonUI" preserve="all" />
+    <type fullname="MasteryFloorGroupElementUI" preserve="all" />
+    <type fullname="MasteryLineUI" preserve="all" />
+    <type fullname="MasteryNode" preserve="all" />
+    <type fullname="MasteryResetPopupUI" preserve="all" />
+    <type fullname="MenuOpenerUI" preserve="all" />
+    <type fullname="MinigameGiftboxCountUI" preserve="all" />
+    <type fullname="Minigames.FlappyBirdCharacter" preserve="all" />
+    <type fullname="Minigames.FlappyBirdGiftBox" preserve="all" />
+    <type fullname="Minigames.FlappyBirdMinigame" preserve="all" />
+    <type fullname="Minigames.FlappyBirdObstacle" preserve="all" />
+    <type fullname="Minigames.FlappyBirdObstacleSpawner" preserve="all" />
+    <type fullname="Minigames.InfiniteStairsCharacter" preserve="all" />
+    <type fullname="Minigames.InfiniteStairsMinigame" preserve="all" />
+    <type fullname="Minigames.InfiniteStairsStairContainer" preserve="all" />
+    <type fullname="Minigames.InfiniteStairsStairEntity" preserve="all" />
+    <type fullname="Minigames.MinigameResultUI" preserve="all" />
+    <type fullname="Minigames.MinigameScoreUI" preserve="all" />
+    <type fullname="Minigames.SortingGameGiftBox" preserve="all" />
+    <type fullname="Minigames.SortingGameObjectSpawner" preserve="all" />
+    <type fullname="Minigames.SortingGameObstacle" preserve="all" />
+    <type fullname="Minigames.SortingGameScore" preserve="all" />
+    <type fullname="Minigames.SortingMinigame" preserve="all" />
+    <type fullname="Minigames.SuberunkerCharacter" preserve="all" />
+    <type fullname="Minigames.SuberunkerGiftBox" preserve="all" />
+    <type fullname="Minigames.SuberunkerMinigame" preserve="all" />
+    <type fullname="Minigames.SuberunkerObjectSpawner" preserve="all" />
+    <type fullname="Minigames.SuberunkerObstacle" preserve="all" />
+    <type fullname="Minigames.SuberunkerScore" preserve="all" />
+    <type fullname="Minigames.UnitRigidbody" preserve="all" />
+    <type fullname="Minigames.WatermelonGameGiftBox" preserve="all" />
+    <type fullname="Minigames.WatermelonGameObjectSpawner" preserve="all" />
+    <type fullname="Minigames.WatermelonGameObstacle" preserve="all" />
+    <type fullname="Minigames.WatermelonGameScore" preserve="all" />
+    <type fullname="Minigames.WatermelonGameTimer" preserve="all" />
+    <type fullname="Minigames.WatermelonMinigame" preserve="all" />
+    <type fullname="MirrorReturnee" preserve="all" />
+    <type fullname="MithrilRushPopupUI" preserve="all" />
+    <type fullname="MonetaIconUI" preserve="all" />
+    <type fullname="MoneyStoreElement" preserve="all" />
+    <type fullname="MoneyStoreUI" preserve="all" />
+    <type fullname="MonsterDetailInfoPopupUI" preserve="all" />
+    <type fullname="MonsterInfoElementUI" preserve="all" />
+    <type fullname="MonsterLandMapUI" preserve="all" />
+    <type fullname="MonsterLandPropertyUI" preserve="all" />
+    <type fullname="MonsterLandQuestHeadLine" preserve="all" />
+    <type fullname="MonsterTypeTagUI" preserve="all" />
+    <type fullname="NewCompanionPopupUI" preserve="all" />
+    <type fullname="NewPhoenixRushEntryPopupUI" preserve="all" />
+    <type fullname="NextBlockCheck" preserve="all" />
+    <type fullname="NormalStoreUI" preserve="all" />
+    <type fullname="NotificationMessagePopupUI" preserve="all" />
+    <type fullname="NotificationsManager" preserve="all" />
+    <type fullname="NotOwnViewUI" preserve="all" />
+    <type fullname="NpcKillRewardCompareOptionElementUI" preserve="all" />
+    <type fullname="NpcKillRewardElementUI" preserve="all" />
+    <type fullname="NpcKillRewardUI" preserve="all" />
+    <type fullname="ObjectPoolingInfiniteScroll" preserve="all" />
+    <type fullname="OffLineRewardPopup" preserve="all" />
+    <type fullname="OfflineRewardPopupUI" preserve="all" />
+    <type fullname="OnlineRandomBoxElementUI" preserve="all" />
+    <type fullname="OnlineRandomBoxUI" preserve="all" />
+    <type fullname="OpeningPopupUI" preserve="all" />
+    <type fullname="OpponentEquipItemElement" preserve="all" />
+    <type fullname="OpponentEquipItemInfoUI" preserve="all" />
+    <type fullname="OptionPopupUI" preserve="all" />
+    <type fullname="OwnEffectViewUI" preserve="all" />
+    <type fullname="OwnGoodsViewUI" preserve="all" />
+    <type fullname="PackageGoodsContentUI" preserve="all" />
+    <type fullname="PackageGoodsElementUI_General" preserve="all" />
+    <type fullname="PackageStoreUI" preserve="all" />
+    <type fullname="PackThreeDice" preserve="all" />
+    <type fullname="PageIndicatorElementUI" preserve="all" />
+    <type fullname="ParticleStopActionAssist" preserve="all" />
+    <type fullname="PassProductToggleButton" preserve="all" />
+    <type fullname="PassReward" preserve="all" />
+    <type fullname="PassRewardGroup" preserve="all" />
+    <type fullname="PassStorePopupUI" preserve="all" />
+    <type fullname="PeriodGoodsContentUI" preserve="all" />
+    <type fullname="PeriodGoodsElementUI_General" preserve="all" />
+    <type fullname="PhoenixDungeonRewardList" preserve="all" />
+    <type fullname="PhoenixRushPopupUI" preserve="all" />
+    <type fullname="PickUpHeroPanelUI" preserve="all" />
+    <type fullname="PointerUpSlider" preserve="all" />
+    <type fullname="PoolableParticle" preserve="all" />
+    <type fullname="PopupMessageControllerUI" preserve="all" />
+    <type fullname="PopupMsgBoxUI" preserve="all" />
+    <type fullname="PopupUI_Alarm" preserve="all" />
+    <type fullname="PositionMapper" preserve="all" />
+    <type fullname="PremiumRush1PopupUI" preserve="all" />
+    <type fullname="PremiumRush2PopupUI" preserve="all" />
+    <type fullname="PremiumRush3PopupUI" preserve="all" />
+    <type fullname="PremiumRush4PopupUI" preserve="all" />
+    <type fullname="PremiumRush5PopupUI" preserve="all" />
+    <type fullname="PresetGroupButtonUI" preserve="all" />
+    <type fullname="PresetGroupPopupUI" preserve="all" />
+    <type fullname="PresetNameChangePopupUI" preserve="all" />
+    <type fullname="Princess.UI.Extensions.SlideScreenTransition" preserve="all" />
+    <type fullname="Princess.UI.Extensions.Window" preserve="all" />
+    <type fullname="ProbElementUI" preserve="all" />
+    <type fullname="ProbInfoPopupUI" preserve="all" />
+    <type fullname="ProbLineElementUI" preserve="all" />
+    <type fullname="ProbRairityInfoElementUI" preserve="all" />
+    <type fullname="ProbShowUI" preserve="all" />
+    <type fullname="PromoteElementUI" preserve="all" />
+    <type fullname="PromoteElementUI3" preserve="all" />
+    <type fullname="PromoteStarUI" preserve="all" />
+    <type fullname="PromoteStarUI2" preserve="all" />
+    <type fullname="PromoteStarUI2Effect" preserve="all" />
+    <type fullname="PromoteStarUI3" preserve="all" />
+    <type fullname="PromoteStarUIEffect" preserve="all" />
+    <type fullname="PurchaseAdsPopupUI" preserve="all" />
+    <type fullname="PurchaseCommonButtonUI" preserve="all" />
+    <type fullname="PurchaseRestoreButton" preserve="all" />
+    <type fullname="PurchaseRestoreItem" preserve="all" />
+    <type fullname="PurchaseRestorePopupUI" preserve="all" />
+    <type fullname="PurchaseWarningPopupUI" preserve="all" />
+    <type fullname="PvpBattlePopupUI" preserve="all" />
+    <type fullname="PvpChallengeAreaUI" preserve="all" />
+    <type fullname="PvpOpponentElementUI" preserve="all" />
+    <type fullname="PvpPopupUI" preserve="all" />
+    <type fullname="PvpProgressOpponentInfoUI" preserve="all" />
+    <type fullname="PvpProgressPopupUI" preserve="all" />
+    <type fullname="PvpRankInfoElementUI" preserve="all" />
+    <type fullname="PvpRankRewardElementViewUI" preserve="all" />
+    <type fullname="PvpResultViewPopupUI" preserve="all" />
+    <type fullname="PvpRewardAreaUI" preserve="all" />
+    <type fullname="PvpRewardInfoElementUI" preserve="all" />
+    <type fullname="PvpRewardItemInfoElementUI" preserve="all" />
+    <type fullname="PvpRewardPopupUI" preserve="all" />
+    <type fullname="PvpStoreAreaUI" preserve="all" />
+    <type fullname="PvpStoreGoodsElementUI" preserve="all" />
+    <type fullname="PvpStorePopupUI" preserve="all" />
+    <type fullname="PvpTopRangkerUI" preserve="all" />
+    <type fullname="PvpUserCharacterViewUI" preserve="all" />
+    <type fullname="QuestControllerUI" preserve="all" />
+    <type fullname="QuestSummaryUI" preserve="all" />
+    <type fullname="QuickBtnOpenFlow" preserve="all" />
+    <type fullname="QuitPopupUI" preserve="all" />
+    <type fullname="RandomBoxRewardElementUI" preserve="all" />
+    <type fullname="RandomBoxTouchParticle" preserve="all" />
+    <type fullname="RandomDiceInfoElementUI" preserve="all" />
+    <type fullname="RandomDiceRewardPopupUI" preserve="all" />
+    <type fullname="RandomDiceRewardTablePopupUI" preserve="all" />
+    <type fullname="RandomDiceWindow" preserve="all" />
+    <type fullname="RankInfoGroup" preserve="all" />
+    <type fullname="RankingCompetitionElementUI" preserve="all" />
+    <type fullname="RankingCompetitionUI" preserve="all" />
+    <type fullname="RankPopupUI" preserve="all" />
+    <type fullname="RarityClassifyListButtonUI" preserve="all" />
+    <type fullname="RarityClassifyPopupUI" preserve="all" />
+    <type fullname="RedDotNewComponent" preserve="all" />
+    <type fullname="RemoveAdsButton" preserve="all" />
+    <type fullname="RemoveAdsPopup" preserve="all" />
+    <type fullname="RenderToUI" preserve="all" />
+    <type fullname="RepeatQuestElement" preserve="all" />
+    <type fullname="RepeatQuestScrollUI" preserve="all" />
+    <type fullname="RequestLinkEffect" preserve="all" />
+    <type fullname="ResearchCenterButtonUI_Enforce" preserve="all" />
+    <type fullname="ResearchCenterButtonUI_Immediately" preserve="all" />
+    <type fullname="ResearchCenterElementUI" preserve="all" />
+    <type fullname="ResearchCenterImmediatelyCompletePopupUI" preserve="all" />
+    <type fullname="ResearchCenterLineGroupUI" preserve="all" />
+    <type fullname="ResearchCompleteResultPopupUI" preserve="all" />
+    <type fullname="ResearchLineUI" preserve="all" />
+    <type fullname="ResearchNode" preserve="all" />
+    <type fullname="ResearchSelectedInfoUI" preserve="all" />
+    <type fullname="ReturneeDamageMeterElementUI" preserve="all" />
+    <type fullname="ReviewPopupUI" preserve="all" />
+    <type fullname="RewardCollector" preserve="all" />
+    <type fullname="RewardIconUI" preserve="all" />
+    <type fullname="RewardInfoPopup" preserve="all" />
+    <type fullname="RewardItem" preserve="all" />
+    <type fullname="RewardItemUI" preserve="all" />
+    <type fullname="RewardScrollViewUI" preserve="all" />
+    <type fullname="SafeArea" preserve="all" />
+    <type fullname="SaintBlessingPopup" preserve="all" />
+    <type fullname="SeasonalDungeonGolemBaseRewardList" preserve="all" />
+    <type fullname="SeasonalEventButtonRedDot" preserve="all" />
+    <type fullname="SeasonalEventButtonUI" preserve="all" />
+    <type fullname="SeasonalEventCompleteOptionElementUI" preserve="all" />
+    <type fullname="SeasonalEventCompleteRewardPopupUI" preserve="all" />
+    <type fullname="SeasonalEventContentButtonRedDot" preserve="all" />
+    <type fullname="SeasonalEventGoodsStoreElementUI" preserve="all" />
+    <type fullname="SeasonalEventGoodsStorePopupUI" preserve="all" />
+    <type fullname="SeasonalEventLimitedPickupPopupUI" preserve="all" />
+    <type fullname="SeasonalEventLimitedPickupPopupUIAdditional" preserve="all" />
+    <type fullname="SeasonalEventLimitedPickupProbInfoPopupUI" preserve="all" />
+    <type fullname="SeasonalEventMainPopupUI" preserve="all" />
+    <type fullname="SeasonalEventQuestElementUI" preserve="all" />
+    <type fullname="SeasonalEventQuestPopupUI" preserve="all" />
+    <type fullname="SeasonalEventSaintBlessingElementUI" preserve="all" />
+    <type fullname="SeasonalEventSaintBlessingPopupUI" preserve="all" />
+    <type fullname="SeasonalEventsDungeonEntryPopupUI" preserve="all" />
+    <type fullname="SeasonalEventsDungeonEntryPopupUI_GolemBase" preserve="all" />
+    <type fullname="SeasonalEventsDungeonEntryPopupUI_TowerCaveBase" preserve="all" />
+    <type fullname="SeasonalEventsDungeonEntryPopupUIBehaviour" preserve="all" />
+    <type fullname="SeasonalEventsDungeonEntryPopupUIBehaviour_GolemBase" preserve="all" />
+    <type fullname="SeasonalEventsDungeonEntryPopupUIBehaviour_TowerCaveBase" preserve="all" />
+    <type fullname="SeasonalEventSevenDayRewardPopupUI" preserve="all" />
+    <type fullname="SeasonalEventShopElementUI" preserve="all" />
+    <type fullname="SeasonalEventSpecialPackagePopupUI" preserve="all" />
+    <type fullname="SeasonalEventsRankingEntryPopupUI" preserve="all" />
+    <type fullname="SeasonalEventsRankReward" preserve="all" />
+    <type fullname="SeasonalEventsRankRewardElementUI" preserve="all" />
+    <type fullname="SeasonalEventsRankRewardPopupUI" preserve="all" />
+    <type fullname="SeasonalEventsRankTopTierElementUI" preserve="all" />
+    <type fullname="SeasonalEventsRankTopTierUI" preserve="all" />
+    <type fullname="SeasonalEventsRankUI" preserve="all" />
+    <type fullname="SeasonalEventsRankUserInfoUI" preserve="all" />
+    <type fullname="SeasonalEventSupplyShopPopupUI" preserve="all" />
+    <type fullname="SeasonalGolemReinforcInfo" preserve="all" />
+    <type fullname="SeasonalRushGolemBasePopupUI" preserve="all" />
+    <type fullname="SeasonalRushPopupUI" preserve="all" />
+    <type fullname="SelectCharacterElementUI" preserve="all" />
+    <type fullname="SelectCompanionDeploySlotUI" preserve="all" />
+    <type fullname="SelectedCharacterBtn" preserve="all" />
+    <type fullname="SelectedTransformationInfo" preserve="all" />
+    <type fullname="SelectLordWindow" preserve="all" />
+    <type fullname="SelectLordWindowElement" preserve="all" />
+    <type fullname="SelectPreset_SwitchType" preserve="all" />
+    <type fullname="SelectPresetButton" preserve="all" />
+    <type fullname="SelectSkillDeploySlotUI" preserve="all" />
+    <type fullname="SelectTransformationGradeToggleGroup" preserve="all" />
+    <type fullname="ServerGroupElementUI" preserve="all" />
+    <type fullname="ServerListElementUI" preserve="all" />
+    <type fullname="ServerSelectPopupUI" preserve="all" />
+    <type fullname="SevenDailyRewardElementUI" preserve="all" />
+    <type fullname="SevenDayRewardPopupUI" preserve="all" />
+    <type fullname="ShadowTownRushPopupUI" preserve="all" />
+    <type fullname="ShortDialogueBoxUI" preserve="all" />
+    <type fullname="SimpleExpSliderUI" preserve="all" />
+    <type fullname="SinglePurchaseResultUI" preserve="all" />
+    <type fullname="SkillAutoToggleUI" preserve="all" />
+    <type fullname="SkillDragon" preserve="all" />
+    <type fullname="SkillDragon_BreathEnd" preserve="all" />
+    <type fullname="SkillEquipEffect" preserve="all" />
+    <type fullname="SkillGroupUI" preserve="all" />
+    <type fullname="SkillItemElementUI" preserve="all" />
+    <type fullname="SkillPresetElementUI" preserve="all" />
+    <type fullname="SkillPresetGroupElementUI" preserve="all" />
+    <type fullname="SkillPresetSelectPopupUI" preserve="all" />
+    <type fullname="SkillSkeleton" preserve="all" />
+    <type fullname="SkillSlotGroup" preserve="all" />
+    <type fullname="SkillSlotLocker" preserve="all" />
+    <type fullname="SkillSlotRedDotInitializer" preserve="all" />
+    <type fullname="SkillStoreUI" preserve="all" />
+    <type fullname="SkillSummonWindowUI_Normal" preserve="all" />
+    <type fullname="SkillUI" preserve="all" />
+    <type fullname="SleepModePopupUI" preserve="all" />
+    <type fullname="SlicedFilledImage" preserve="all" />
+    <type fullname="SliderTimerUI" preserve="all" />
+    <type fullname="SlidingText" preserve="all" />
+    <type fullname="SlotCompanionElementUI" preserve="all" />
+    <type fullname="SlotCompanionProgress" preserve="all" />
+    <type fullname="SocialLinkWarningUI" preserve="all" />
+    <type fullname="SocialLoginWarningUI" preserve="all" />
+    <type fullname="SomethingAutoPickEquipmentUI" preserve="all" />
+    <type fullname="SomethingButtonUIV2" preserve="all" />
+    <type fullname="SomethingControllerV2" preserve="all" />
+    <type fullname="SomethingDiceCardDetailPopupUI" preserve="all" />
+    <type fullname="SomethingDiceCardElementUI" preserve="all" />
+    <type fullname="SomethingDiceCardUI" preserve="all" />
+    <type fullname="SomethingDiceToUI" preserve="all" />
+    <type fullname="SomethingDiceUI" preserve="all" />
+    <type fullname="SomethingEquipmentMakeItemHammerUI" preserve="all" />
+    <type fullname="SomethingEquipmentPopupUI" preserve="all" />
+    <type fullname="SomethingGainItemUI" preserve="all" />
+    <type fullname="SomethingInfoPopupUI" preserve="all" />
+    <type fullname="SomethingPickEquipmentCountNumberUI" preserve="all" />
+    <type fullname="SomethingPickEquipmentCountUI" preserve="all" />
+    <type fullname="SomethingPickEquipmentOptionElementUI" preserve="all" />
+    <type fullname="SomethingPickEquipmentOptionGroupUI" preserve="all" />
+    <type fullname="SomethingPickEquipmentOptionUI" preserve="all" />
+    <type fullname="SomethingProjectileUI" preserve="all" />
+    <type fullname="SomethingRewardItemUI" preserve="all" />
+    <type fullname="SpacialStoreUI" preserve="all" />
+    <type fullname="SpecialEquipActiveSkillIcon" preserve="all" />
+    <type fullname="SpecialEquipManagePopupUI" preserve="all" />
+    <type fullname="SpecialEquipPreviewPopupUI" preserve="all" />
+    <type fullname="SpecialGroupGrowthViewUI" preserve="all" />
+    <type fullname="SpecialGroupItemEnhaceViewUI" preserve="all" />
+    <type fullname="SpecialGroupLevelUpButtonUI" preserve="all" />
+    <type fullname="SpecialItemElementUI" preserve="all" />
+    <type fullname="SpecialItemElementUI_Transform" preserve="all" />
+    <type fullname="SpecialItemLevelApproachRewardInfo" preserve="all" />
+    <type fullname="SpecialItemLevelUpButtonUI" preserve="all" />
+    <type fullname="SpecialItemLevelUpSlider" preserve="all" />
+    <type fullname="SpecialItemPromoteUI" preserve="all" />
+    <type fullname="SpecialLevelEffectInfoViewUI" preserve="all" />
+    <type fullname="SpecialLevelEffectInfoViewUI2" preserve="all" />
+    <type fullname="SpecialLevelElement" preserve="all" />
+    <type fullname="SpecialSkinEquipInfoGroup" preserve="all" />
+    <type fullname="SpecialSkinLevelEffectGroup" preserve="all" />
+    <type fullname="SpecialSkinLevelEffectGroup2" preserve="all" />
+    <type fullname="SpecialSkinLvDetailPopupUI" preserve="all" />
+    <type fullname="SpecialSkinLvDetailPopupUI_Transformation" preserve="all" />
+    <type fullname="SpecialSkinMainEffectGroup" preserve="all" />
+    <type fullname="SpineSpriteBillboard" preserve="all" />
+    <type fullname="SpriteBillboard" preserve="all" />
+    <type fullname="SpriteBillboardRotationFixed" preserve="all" />
+    <type fullname="SpriteRendererAssist" preserve="all" />
+    <type fullname="SpriteTextDesc" preserve="all" />
+    <type fullname="StackedProgressBarUI" preserve="all" />
+    <type fullname="StageBreakthroughEventPopupUI" preserve="all" />
+    <type fullname="StageBreakThroughRewardInfoElementUI" preserve="all" />
+    <type fullname="StageLastPositionCheckBox" preserve="all" />
+    <type fullname="Star_Off" preserve="all" />
+    <type fullname="StarCollectionList" preserve="all" />
+    <type fullname="StartMissionPopupUI" preserve="all" />
+    <type fullname="StartMissionProgressElementUI" preserve="all" />
+    <type fullname="StartMissionQuestElementUI" preserve="all" />
+    <type fullname="StatEnchantBtn_Vertical" preserve="all" />
+    <type fullname="StatIconUI" preserve="all" />
+    <type fullname="StatusInfoPopupUI" preserve="all" />
+    <type fullname="StoreCardProductDescUI" preserve="all" />
+    <type fullname="StoreCardProductItemUI" preserve="all" />
+    <type fullname="StoreCardProductUI" preserve="all" />
+    <type fullname="StoreConditionalRedDot" preserve="all" />
+    <type fullname="StoreConditionalType1Button" preserve="all" />
+    <type fullname="StoreConditionalType1PopupUI" preserve="all" />
+    <type fullname="StoreConditionalType1Product" preserve="all" />
+    <type fullname="StoreConditionalType2AProduct" preserve="all" />
+    <type fullname="StoreConditionalType2BProduct" preserve="all" />
+    <type fullname="StoreConditionalType2Button" preserve="all" />
+    <type fullname="StoreConditionalType2PopupUI" preserve="all" />
+    <type fullname="StoreConditionalType3Button" preserve="all" />
+    <type fullname="StoreConditionalType3PopupUI" preserve="all" />
+    <type fullname="StoreConditionalTypeManager" preserve="all" />
+    <type fullname="StoreETCProductPopupUI" preserve="all" />
+    <type fullname="StoreGoodsElementUI" preserve="all" />
+    <type fullname="StorePackageProduct2UI" preserve="all" />
+    <type fullname="StorePackageProductUI" preserve="all" />
+    <type fullname="StorePopupUI" preserve="all" />
+    <type fullname="StoreProductBuyUI" preserve="all" />
+    <type fullname="StoreProductCategoryUI" preserve="all" />
+    <type fullname="StoreProductDetailPopupUI" preserve="all" />
+    <type fullname="StoreProductGemTypeCheckUI" preserve="all" />
+    <type fullname="StoreProductItemUI" preserve="all" />
+    <type fullname="StoreProductSpecialCategoryUI" preserve="all" />
+    <type fullname="StoreSingleProductContainer2UI" preserve="all" />
+    <type fullname="StoreSingleProductContainerUI" preserve="all" />
+    <type fullname="StoreSingleProductUI" preserve="all" />
+    <type fullname="StoreSpecialPackageProductUI" preserve="all" />
+    <type fullname="StringInfoUI" preserve="all" />
+    <type fullname="SubQuestElement" preserve="all" />
+    <type fullname="SubQuestPopupUI" preserve="all" />
+    <type fullname="SubStoreMonetaTypePurchasePopupUI" preserve="all" />
+    <type fullname="SubStorePurchaseButtonUI" preserve="all" />
+    <type fullname="SubStoreSkillPurchasePopupUI" preserve="all" />
+    <type fullname="SummonGuidePanel" preserve="all" />
+    <type fullname="SummonProbContentUI" preserve="all" />
+    <type fullname="SummonProbElementUI" preserve="all" />
+    <type fullname="SummonProbInfoPopupUI" preserve="all" />
+    <type fullname="SummonResultElementUI" preserve="all" />
+    <type fullname="SummonResultElementUI120" preserve="all" />
+    <type fullname="SummonResultPopupUI" preserve="all" />
+    <type fullname="SummonStoreElementUI" preserve="all" />
+    <type fullname="SummonStoreUI" preserve="all" />
+    <type fullname="SuppressionMissionProgressElementUI" preserve="all" />
+    <type fullname="SuppressionMonsterGroupInfo" preserve="all" />
+    <type fullname="SuppressionPopupUI" preserve="all" />
+    <type fullname="SuppressionQuestElementUI" preserve="all" />
+    <type fullname="SynergyChangeEffectPopupUI" preserve="all" />
+    <type fullname="SynergyInfoElementUI" preserve="all" />
+    <type fullname="SynergySimpleInfoUI" preserve="all" />
+    <type fullname="Tab_RefreshTime" preserve="all" />
+    <type fullname="TermsUI" preserve="all" />
+    <type fullname="TerritoryPopupUI" preserve="all" />
+    <type fullname="TestModeCharacterItemUI" preserve="all" />
+    <type fullname="TextBalloonUI" preserve="all" />
+    <type fullname="TicketBuyPopupUI" preserve="all" />
+    <type fullname="TimeDungeonContentButtonRedDot" preserve="all" />
+    <type fullname="TimeDungeonEntryPopupUIBehaviour" preserve="all" />
+    <type fullname="TimeDungeonEntryPopupUIBehaviour_GolemBase" preserve="all" />
+    <type fullname="TimeDungeonEntryPopupUIBehaviour_TowerCaveBase" preserve="all" />
+    <type fullname="TimeDungeonEntryUI" preserve="all" />
+    <type fullname="TimeDungeonEventLimitedPickupPopupUI" preserve="all" />
+    <type fullname="TimeDungeonPickupGroupPopup" preserve="all" />
+    <type fullname="TimeLimitUI" preserve="all" />
+    <type fullname="TimeShiftReportUI" preserve="all" />
+    <type fullname="ToggleChatButtonUI" preserve="all" />
+    <type fullname="ToggleChatUI" preserve="all" />
+    <type fullname="ToggleNormalButtonUI" preserve="all" />
+    <type fullname="ToggleNormalUI_V1" preserve="all" />
+    <type fullname="TopBarRewardInfoUI" preserve="all" />
+    <type fullname="TopBarUI" preserve="all" />
+    <type fullname="TouchRepositionableJoystick" preserve="all" />
+    <type fullname="TowerCaveDungeonPreviewItem" preserve="all" />
+    <type fullname="TowerStoreRefreshGoodsButtonUI" preserve="all" />
+    <type fullname="TransformationAwakeningUI" preserve="all" />
+    <type fullname="TransformationDetailInfo_StatName" preserve="all" />
+    <type fullname="TransformationDetailInfoElement" preserve="all" />
+    <type fullname="TransformationElementUI" preserve="all" />
+    <type fullname="TransformationElementUI_CollectionBook" preserve="all" />
+    <type fullname="TransformationElementUI_Merge" preserve="all" />
+    <type fullname="TransformationElementUI_MergeTarget" preserve="all" />
+    <type fullname="TransformationElementUI_Select" preserve="all" />
+    <type fullname="TransformationElementUI_Summon" preserve="all" />
+    <type fullname="TransformationEquipStatUI" preserve="all" />
+    <type fullname="TransformationGradeToggleButton" preserve="all" />
+    <type fullname="TransformationMergeResultPopupUI" preserve="all" />
+    <type fullname="TransformationMergeUI" preserve="all" />
+    <type fullname="TransformationPopupUI" preserve="all" />
+    <type fullname="TransformationSelectUI" preserve="all" />
+    <type fullname="TransformationSummonResultElementUI_IniteScroll" preserve="all" />
+    <type fullname="TransformLink" preserve="all" />
+    <type fullname="TransformStoreUI" preserve="all" />
+    <type fullname="TransformSummonWindowUI_Normal" preserve="all" />
+    <type fullname="Tutelar" preserve="all" />
+    <type fullname="Tutorial_Hand_4" preserve="all" />
+    <type fullname="Tutorial_Indicator" preserve="all" />
+    <type fullname="Tutorial_IndicatorTarget" preserve="all" />
+    <type fullname="Tutorial_SummonStore_EquipmentUI" preserve="all" />
+    <type fullname="Tutorial_templete" preserve="all" />
+    <type fullname="TutorialBossTryWaitUI" preserve="all" />
+    <type fullname="TutorialController" preserve="all" />
+    <type fullname="TutorialExplainMsgPopupUI" preserve="all" />
+    <type fullname="TutorialFeverEndWaitUI" preserve="all" />
+    <type fullname="TutorialFeverEnterDelayWaitUI" preserve="all" />
+    <type fullname="TutorialFeverWaitUI" preserve="all" />
+    <type fullname="TutorialFingerUI" preserve="all" />
+    <type fullname="TutorialGuideUI" preserve="all" />
+    <type fullname="TutorialPopupUI" preserve="all" />
+    <type fullname="TutorialTitleStartConditionCheckWaitUI" preserve="all" />
+    <type fullname="TutorialTouchRectBoxUI" preserve="all" />
+    <type fullname="TutorialTouchRectUI" preserve="all" />
+    <type fullname="UIEventBubbler" preserve="all" />
+    <type fullname="Unit" preserve="all" />
+    <type fullname="UnitAnimationEventHandler" preserve="all" />
+    <type fullname="UnitAttackEffect" preserve="all" />
+    <type fullname="UnitCrowd" preserve="all" />
+    <type fullname="UnitExtension" preserve="all" />
+    <type fullname="UnitFormation" preserve="all" />
+    <type fullname="UnitFormationElement" preserve="all" />
+    <type fullname="UnitGlobalRaidUI" preserve="all" />
+    <type fullname="UnitHpBarUI" preserve="all" />
+    <type fullname="UnitMecanimToAnimationHandle" preserve="all" />
+    <type fullname="UnitMoveVibration" preserve="all" />
+    <type fullname="UnitPartsParent" preserve="all" />
+    <type fullname="UnitPosition" preserve="all" />
+    <type fullname="UnitPositionParent" preserve="all" />
+    <type fullname="UnitRaycastReceiver" preserve="all" />
+    <type fullname="UnitRotationFlip" preserve="all" />
+    <type fullname="UnitUI" preserve="all" />
+    <type fullname="UnitWingParent" preserve="all" />
+    <type fullname="UnLockSliderUI" preserve="all" />
+    <type fullname="UpdateShaderWithCharacterPosition" preserve="all" />
+    <type fullname="UserAccountLinkToSocialPopupUI" preserve="all" />
+    <type fullname="UserAccountUnLinkToSocialPopupUI" preserve="all" />
+    <type fullname="UserDeleteConfirmPopupUI" preserve="all" />
+    <type fullname="UserInfoPopupUI" preserve="all" />
+    <type fullname="UserNicknameChangePopupUI" preserve="all" />
+    <type fullname="UserOptionPopupUI" preserve="all" />
+    <type fullname="UseTimeTicketPopup" preserve="all" />
+    <type fullname="VibrationSettingPopupUI" preserve="all" />
+    <type fullname="WaitPopupUI" preserve="all" />
+    <type fullname="WarningPopupUI" preserve="all" />
+    <type fullname="WatermelonGameAnimator" preserve="all" />
+    <type fullname="WeeklyQuestScrollUI" preserve="all" />
+    <type fullname="WingCenterUI" preserve="all" />
+    <type fullname="WingElementUI" preserve="all" />
+    <type fullname="WingInfoUI" preserve="all" />
+    <type fullname="WingSlotAreaUI" preserve="all" />
+    <type fullname="WingSlotElementUI" preserve="all" />
+    <type fullname="WorkShopEnhanceButtonUI" preserve="all" />
+    <type fullname="WorkShopEquipButtonUI" preserve="all" />
+    <type fullname="WorkShopLevelViewUI" preserve="all" />
+    <type fullname="WorkShopMakeItemHammerUI" preserve="all" />
+    <type fullname="WorkShopMakeItemNeedCostUI" preserve="all" />
+    <type fullname="WorkShopShowCaseElementUI" preserve="all" />
+    <type fullname="WorkShopShowCaseUI" preserve="all" />
+    <type fullname="WorkShopSlotExpansionButtonUI" preserve="all" />
+    <type fullname="AudioControlling.BGMAudioLibraryTable" preserve="nothing" serialized="true" />
+    <type fullname="AudioControlling.FadeData" preserve="nothing" serialized="true" />
+    <type fullname="CharacterDressUpPopupUI/RedDotList" preserve="nothing" serialized="true" />
+    <type fullname="CharacterInfoRenderGroup/RenderSetup" preserve="nothing" serialized="true" />
+    <type fullname="BGMSoundInfo" preserve="nothing" serialized="true" />
+    <type fullname="SoundInfo" preserve="nothing" serialized="true" />
+    <type fullname="UISoundInfo" preserve="nothing" serialized="true" />
+    <type fullname="GlobalRaidButtonScheduleUI/UIInfo" preserve="nothing" serialized="true" />
+    <type fullname="CinemaBattlePauseBehaviour" preserve="nothing" serialized="true" />
+    <type fullname="GrowthRecommandUsingMonetaRedDot/MonetaCondition" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.SkeletonAnimation" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonMecanim" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonMecanimRootMotion" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+    <type fullname="Spine.Unity.BlendModeMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.SkeletonMecanim/MecanimTranslator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator/Settings" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.BlendModeMaterials/ReplacementMaterial" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UIGradient, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UICornersGradient" preserve="all" />
+    <type fullname="UIGradient" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.InputSystem, Version=1.14.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="all" />
+    <type fullname="UnityEngine.InputSystem.InputActionReference" preserve="all" />
+    <type fullname="UnityEngine.InputSystem.UI.InputSystemUIInputModule" preserve="all" />
+    <type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Components.LocalizeSpriteEvent" preserve="all" />
+    <type fullname="UnityEngine.Localization.Components.LocalizeStringEvent" preserve="all" />
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.PropertyVariants.GameObjectLocalizer" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.AssetTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Events.UnityEventSprite" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedSprite" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.AssetTypeMetadata" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
+    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
+    <type fullname="UnityEngine.Rendering.BoolParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.MinFloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.Bloom" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.DownscaleParameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AudioPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AudioTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.GroupTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalEmitter" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AudioClipProperties" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.AudioMixerProperties" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animations.PositionConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ExposedReference`1[Cinemachine.CinemachineVirtualCameraBase]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[UnityEngine.Transform,UnityEngine.Transform]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Double]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Int32]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
+    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityUIExtensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Extensions.Scroller" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.UILineRenderer" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.Scroller/Snap" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Tools">
+    <type fullname="MoreMountains.Tools.JoystickEvent" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Tools.JoystickFloatEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Sirenix.Serialization">
+    <type fullname="Sirenix.Serialization.SerializationData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
