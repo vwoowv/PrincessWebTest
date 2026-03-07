@@ -7,7 +7,6 @@
     <type fullname="NewMaterialChange" preserve="all" />
     <type fullname="ScaleFactorApplyToMaterial" preserve="all" />
     <type fullname="VariousRotateObject" preserve="all" />
-    <type fullname="VideoHandler" preserve="all" />
   </assembly>
   <assembly fullname="BakeryRuntimeAssembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="BakeryLightmappedPrefab" preserve="all" />
@@ -36,9 +35,9 @@
     <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineTargetGroup/Target" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.NoiseSettings/NoiseParams" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.NoiseSettings/TransformNoiseParams" preserve="nothing" serialized="true" />
-    <type fullname="Cinemachine.CinemachineTargetGroup/Target" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
@@ -129,6 +128,8 @@
     <type fullname="BattleCompanionContentsUI" preserve="all" />
     <type fullname="BattleEquipmentContentsUI" preserve="all" />
     <type fullname="BattleFaderObject" preserve="all" />
+    <type fullname="BattleFieldStageCharacterRaycasterUI" preserve="all" />
+    <type fullname="BattleFieldStagePopupUI" preserve="all" />
     <type fullname="BattleIdleContentsUI" preserve="all" />
     <type fullname="BattleLeftContentsUI" preserve="all" />
     <type fullname="BattleManager" preserve="all" />
@@ -169,6 +170,7 @@
     <type fullname="BuffSeenSynergyElementUI" preserve="all" />
     <type fullname="CameraConfiner" preserve="all" />
     <type fullname="CameraModeButtonUI" preserve="all" />
+    <type fullname="CanvasGroupConstraint" preserve="all" />
     <type fullname="CardStoreUI" preserve="all" />
     <type fullname="CategoryOpenFlowMakeText" preserve="all" />
     <type fullname="CategoryOpenFlowMakeVisible" preserve="all" />
@@ -182,7 +184,6 @@
     <type fullname="CharacterDressUpPopupUI" preserve="all" />
     <type fullname="CharacterEquipmentBottomButtonUI" preserve="all" />
     <type fullname="CharacterEquipmentDetailInfoPopupUI" preserve="all" />
-    <type fullname="CharacterEquipmentToggleUI" preserve="all" />
     <type fullname="CharacterEquipmentUI" preserve="all" />
     <type fullname="CharacterEquipmentWarningUI" preserve="all" />
     <type fullname="CharacterGrowthStarCollection" preserve="all" />
@@ -271,7 +272,6 @@
     <type fullname="CompanionDeckElementUI" preserve="all" />
     <type fullname="CompanionDeployPopupUI" preserve="all" />
     <type fullname="CompanionDeploySlotUI" preserve="all" />
-    <type fullname="CompanionDetailInfoPopupUI" preserve="all" />
     <type fullname="CompanionElementInfoUI" preserve="all" />
     <type fullname="CompanionElementUI" preserve="all" />
     <type fullname="CompanionIconBtn" preserve="all" />
@@ -288,6 +288,7 @@
     <type fullname="CompanionSpecialDetailPopupUI" preserve="all" />
     <type fullname="CompanionsSummonProgressElementUI" preserve="all" />
     <type fullname="CompanionStoreUI" preserve="all" />
+    <type fullname="CompanionSummonUI" preserve="all" />
     <type fullname="CompanionSummonWindowUI_Normal" preserve="all" />
     <type fullname="CompanionTypeTagUI" preserve="all" />
     <type fullname="CompanionUpgradePopupLevelUpUI" preserve="all" />
@@ -371,7 +372,6 @@
     <type fullname="DeploySkillUI" preserve="all" />
     <type fullname="DescendingOrderButtonUI" preserve="all" />
     <type fullname="DescStackedProgressBarUI" preserve="all" />
-    <type fullname="DiceRushStageInfoUI" preserve="all" />
     <type fullname="Dominion" preserve="all" />
     <type fullname="DominionAssignCompanionElementUI" preserve="all" />
     <type fullname="DominionAssignSlotUnLockButtonUI" preserve="all" />
@@ -388,7 +388,6 @@
     <type fullname="DungeonEntryUI" preserve="all" />
     <type fullname="DungeonEvent2EntryGroupUI" preserve="all" />
     <type fullname="DungeonHardEntryGroupUI" preserve="all" />
-    <type fullname="DungeonIntroMsgBoxUI" preserve="all" />
     <type fullname="DungeonNormalEntryGroupUI" preserve="all" />
     <type fullname="DungeonPopupUI" preserve="all" />
     <type fullname="DungeonRecommendSkillList" preserve="all" />
@@ -424,7 +423,6 @@
     <type fullname="EquipItemSlotLockUI" preserve="all" />
     <type fullname="EquipItemUI" preserve="all" />
     <type fullname="EquipmentCompareHorizontalUI" preserve="all" />
-    <type fullname="EquipmentDetailInfoPopupUI" preserve="all" />
     <type fullname="EquipmentDropGradePopupUI" preserve="all" />
     <type fullname="EquipmentEffectCompareViewUI" preserve="all" />
     <type fullname="EquipmentExpUI" preserve="all" />
@@ -442,11 +440,8 @@
     <type fullname="EvolutionIcon" preserve="all" />
     <type fullname="EvolutionRushPopupUI" preserve="all" />
     <type fullname="FastPlayToggleUI" preserve="all" />
-    <type fullname="FeverAttackObject" preserve="all" />
-    <type fullname="FeverButtonUI" preserve="all" />
     <type fullname="FeverComboCountUI" preserve="all" />
     <type fullname="FeverSlaughterRewardPopup" preserve="all" />
-    <type fullname="FeverSoul" preserve="all" />
     <type fullname="FieldPropertyElement" preserve="all" />
     <type fullname="FieldPropertyGroup" preserve="all" />
     <type fullname="ForceDisableLocalBundleRelateAsset" preserve="all" />
@@ -457,7 +452,6 @@
     <type fullname="FriendElementUI" preserve="all" />
     <type fullname="FriendPopupUI" preserve="all" />
     <type fullname="FullPopup_Middle_info" preserve="all" />
-    <type fullname="FX_Hit_Tower" preserve="all" />
     <type fullname="GamePotController" preserve="all" />
     <type fullname="GamePotCouponPopup" preserve="all" />
     <type fullname="GamePotModuleTest" preserve="all" />
@@ -465,6 +459,7 @@
     <type fullname="GemPopup" preserve="all" />
     <type fullname="GemRewardItem" preserve="all" />
     <type fullname="GemRewardScrollItem" preserve="all" />
+    <type fullname="GlobalEventPromotionUI" preserve="all" />
     <type fullname="GlobalRaidBattleUI" preserve="all" />
     <type fullname="GlobalRaidBossWarningRegion" preserve="all" />
     <type fullname="GlobalRaidButtonScheduleUI" preserve="all" />
@@ -508,7 +503,6 @@
     <type fullname="GrowthRecommandElementUI" preserve="all" />
     <type fullname="GrowthRecommandStageSuppressionRedDot" preserve="all" />
     <type fullname="GrowthRecommandUsingMonetaRedDot" preserve="all" />
-    <type fullname="GuideInfoElementUI" preserve="all" />
     <type fullname="GuidePressHoldFingerUI" preserve="all" />
     <type fullname="GuidePressHoldQuestUI" preserve="all" />
     <type fullname="GuideTouchArea" preserve="all" />
@@ -556,13 +550,8 @@
     <type fullname="HUDRankUI" preserve="all" />
     <type fullname="IdleTimeRewardPopupUI" preserve="all" />
     <type fullname="IndexFinger" preserve="all" />
-    <type fullname="InfiniteTowerTutorialUI" preserve="all" />
     <type fullname="IngameProduction" preserve="all" />
     <type fullname="InputBlocker" preserve="all" />
-    <type fullname="IntroCinema" preserve="all" />
-    <type fullname="IntroCinemaObject" preserve="all" />
-    <type fullname="IntroContentsPopupUI" preserve="all" />
-    <type fullname="IntroLog" preserve="all" />
     <type fullname="ItemComparerPopupUI" preserve="all" />
     <type fullname="ItemMonetaElementUI" preserve="all" />
     <type fullname="ItemNaviInfoButtonUI" preserve="all" />
@@ -673,7 +662,6 @@
     <type fullname="NpcKillRewardUI" preserve="all" />
     <type fullname="ObjectPoolingInfiniteScroll" preserve="all" />
     <type fullname="OffLineRewardPopup" preserve="all" />
-    <type fullname="OfflineRewardPopupUI" preserve="all" />
     <type fullname="OnlineRandomBoxElementUI" preserve="all" />
     <type fullname="OnlineRandomBoxUI" preserve="all" />
     <type fullname="OpeningPopupUI" preserve="all" />
@@ -824,6 +812,7 @@
     <type fullname="SeasonalEventsRankTopTierUI" preserve="all" />
     <type fullname="SeasonalEventsRankUI" preserve="all" />
     <type fullname="SeasonalEventsRankUserInfoUI" preserve="all" />
+    <type fullname="SeasonalEventSummonStoreUI" preserve="all" />
     <type fullname="SeasonalEventSupplyShopPopupUI" preserve="all" />
     <type fullname="SeasonalGolemReinforcInfo" preserve="all" />
     <type fullname="SeasonalRushGolemBasePopupUI" preserve="all" />
@@ -861,6 +850,7 @@
     <type fullname="SkillSlotLocker" preserve="all" />
     <type fullname="SkillSlotRedDotInitializer" preserve="all" />
     <type fullname="SkillStoreUI" preserve="all" />
+    <type fullname="SkillSummonUI" preserve="all" />
     <type fullname="SkillSummonWindowUI_Normal" preserve="all" />
     <type fullname="SkillUI" preserve="all" />
     <type fullname="SleepModePopupUI" preserve="all" />
@@ -932,6 +922,7 @@
     <type fullname="StoreCardProductDescUI" preserve="all" />
     <type fullname="StoreCardProductItemUI" preserve="all" />
     <type fullname="StoreCardProductUI" preserve="all" />
+    <type fullname="StoreConditionalPackageProductUI" preserve="all" />
     <type fullname="StoreConditionalRedDot" preserve="all" />
     <type fullname="StoreConditionalType1Button" preserve="all" />
     <type fullname="StoreConditionalType1PopupUI" preserve="all" />
@@ -945,6 +936,7 @@
     <type fullname="StoreConditionalTypeManager" preserve="all" />
     <type fullname="StoreETCProductPopupUI" preserve="all" />
     <type fullname="StoreGoodsElementUI" preserve="all" />
+    <type fullname="StoreMenuOpenerUI" preserve="all" />
     <type fullname="StorePackageProduct2UI" preserve="all" />
     <type fullname="StorePackageProductUI" preserve="all" />
     <type fullname="StorePopupUI" preserve="all" />
@@ -965,13 +957,18 @@
     <type fullname="SubStorePurchaseButtonUI" preserve="all" />
     <type fullname="SubStoreSkillPurchasePopupUI" preserve="all" />
     <type fullname="SummonGuidePanel" preserve="all" />
+    <type fullname="SummonPickupUI" preserve="all" />
     <type fullname="SummonProbContentUI" preserve="all" />
     <type fullname="SummonProbElementUI" preserve="all" />
     <type fullname="SummonProbInfoPopupUI" preserve="all" />
     <type fullname="SummonResultElementUI" preserve="all" />
     <type fullname="SummonResultElementUI120" preserve="all" />
     <type fullname="SummonResultPopupUI" preserve="all" />
+    <type fullname="SummonStoreAdsSummonButtonUI" preserve="all" />
+    <type fullname="SummonStoreBannerTabUI" preserve="all" />
     <type fullname="SummonStoreElementUI" preserve="all" />
+    <type fullname="SummonStorePurchaseButtonUI" preserve="all" />
+    <type fullname="SummonStoreSummonLevelRewardButtonUI" preserve="all" />
     <type fullname="SummonStoreUI" preserve="all" />
     <type fullname="SuppressionMissionProgressElementUI" preserve="all" />
     <type fullname="SuppressionMonsterGroupInfo" preserve="all" />
@@ -983,7 +980,6 @@
     <type fullname="Tab_RefreshTime" preserve="all" />
     <type fullname="TermsUI" preserve="all" />
     <type fullname="TerritoryPopupUI" preserve="all" />
-    <type fullname="TestModeCharacterItemUI" preserve="all" />
     <type fullname="TextBalloonUI" preserve="all" />
     <type fullname="TicketBuyPopupUI" preserve="all" />
     <type fullname="TimeDungeonContentButtonRedDot" preserve="all" />
@@ -1003,7 +999,8 @@
     <type fullname="TopBarUI" preserve="all" />
     <type fullname="TouchRepositionableJoystick" preserve="all" />
     <type fullname="TowerCaveDungeonPreviewItem" preserve="all" />
-    <type fullname="TowerStoreRefreshGoodsButtonUI" preserve="all" />
+    <type fullname="TownCharacterRaycasterUI" preserve="all" />
+    <type fullname="TownPopupUI" preserve="all" />
     <type fullname="TransformationAwakeningUI" preserve="all" />
     <type fullname="TransformationDetailInfo_StatName" preserve="all" />
     <type fullname="TransformationDetailInfoElement" preserve="all" />
@@ -1074,11 +1071,6 @@
     <type fullname="WarningPopupUI" preserve="all" />
     <type fullname="WatermelonGameAnimator" preserve="all" />
     <type fullname="WeeklyQuestScrollUI" preserve="all" />
-    <type fullname="WingCenterUI" preserve="all" />
-    <type fullname="WingElementUI" preserve="all" />
-    <type fullname="WingInfoUI" preserve="all" />
-    <type fullname="WingSlotAreaUI" preserve="all" />
-    <type fullname="WingSlotElementUI" preserve="all" />
     <type fullname="WorkShopEnhanceButtonUI" preserve="all" />
     <type fullname="WorkShopEquipButtonUI" preserve="all" />
     <type fullname="WorkShopLevelViewUI" preserve="all" />
@@ -1095,6 +1087,7 @@
     <type fullname="SoundInfo" preserve="nothing" serialized="true" />
     <type fullname="UISoundInfo" preserve="nothing" serialized="true" />
     <type fullname="GlobalRaidButtonScheduleUI/UIInfo" preserve="nothing" serialized="true" />
+    <type fullname="RedDotNewComponent/RedDotComponentReference" preserve="nothing" serialized="true" />
     <type fullname="CinemaBattlePauseBehaviour" preserve="nothing" serialized="true" />
     <type fullname="GrowthRecommandUsingMonetaRedDot/MonetaCondition" preserve="nothing" serialized="true" />
   </assembly>
@@ -1119,7 +1112,7 @@
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
   </assembly>
-  <assembly fullname="Unity.InputSystem, Version=1.14.0.0, Culture=neutral, PublicKeyToken=null">
+  <assembly fullname="Unity.InputSystem, Version=1.18.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="all" />
     <type fullname="UnityEngine.InputSystem.InputActionReference" preserve="all" />
     <type fullname="UnityEngine.InputSystem.UI.InputSystemUIInputModule" preserve="all" />
@@ -1153,20 +1146,11 @@
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
-    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
-    <type fullname="UnityEngine.Rendering.BoolParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.MinFloatParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Rendering.Universal.Bloom" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.Universal.DownscaleParameter" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -1191,23 +1175,15 @@
     <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
     <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
-    <type fullname="UnityEngine.Timeline.AudioPlayableAsset" preserve="all" />
-    <type fullname="UnityEngine.Timeline.AudioTrack" preserve="all" />
-    <type fullname="UnityEngine.Timeline.GroupTrack" preserve="all" />
     <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
     <type fullname="UnityEngine.Timeline.SignalAsset" preserve="all" />
     <type fullname="UnityEngine.Timeline.SignalEmitter" preserve="all" />
     <type fullname="UnityEngine.Timeline.SignalReceiver" preserve="all" />
     <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
-    <type fullname="UnityEngine.Timeline.AudioClipProperties" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Timeline.AudioMixerProperties" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
@@ -1262,10 +1238,10 @@
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.ExposedReference`1[Cinemachine.CinemachineVirtualCameraBase]" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.UnityEvent`2[UnityEngine.Transform,UnityEngine.Transform]" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.UnityEvent`1[System.Double]" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.UnityEvent`1[System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RenderingLayerMask" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ExposedReference`1" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
@@ -1287,7 +1263,6 @@
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
     <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
-    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
@@ -1330,10 +1305,6 @@
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
-    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
-  </assembly>
   <assembly fullname="UnityUIExtensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Extensions.Scroller" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.UILineRenderer" preserve="all" />
@@ -1351,5 +1322,8 @@
     <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
   </assembly>
 </linker>
