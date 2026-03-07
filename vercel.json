@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/Config/DEV/Maintenance",
+      "source": "/Dist/Config/DEV/Maintenance",
       "destination": "https://fvg4eiwm4017.edge.naverncp.com/Config/DEV/Maintenance"
     }
   ],
@@ -11,10 +11,20 @@
       { "key": "Access-Control-Allow-Methods", "value": "GET,POST,PUT,PATCH,DELETE,OPTIONS" },
       { "key": "Access-Control-Allow-Headers", "value": "*" }
     ]},
-    { "source": "/(.*)\\.wasm$", "headers": [{ "key": "Content-Type", "value": "application/wasm" }]},
-    { "source": "/(.*)\\.data$", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }]},
-    { "source": "/(.*)\\.unityweb$", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }]},
-    { "source": "/(.*)\\.framework\\.js$", "headers": [{ "key": "Content-Type", "value": "application/javascript; charset=utf-8" }]},
-    { "source": "/(.*)\\.loader\\.js$", "headers": [{ "key": "Content-Type", "value": "application/javascript; charset=utf-8" }]}
+    { "source": "/(.*)\\.wasm$", "headers": [
+      { "key": "Content-Type", "value": "application/wasm" }
+    ]},
+    { "source": "/(.*)\\.data$", "headers": [
+      { "key": "Content-Type", "value": "application/octet-stream" }
+    ]},
+    { "source": "/(.*)\\.unityweb$", "headers": [
+      { "key": "Content-Type", "value": "application/octet-stream" }
+    ]},
+    { "source": "/(.*)\\.framework\\.js$", "headers": [
+      { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
+    ]},
+    { "source": "/(.*)\\.loader\\.js$", "headers": [
+      { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
+    ]}
   ]
 }

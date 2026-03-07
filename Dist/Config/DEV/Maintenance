@@ -1,0 +1,15 @@
+{
+    "MaintenanceLocalSettingList": {
+        "ko": {
+            "Shutdown": false,
+            "ShutdownText": "서버 점검 중입니다.\n잠시 후 다시 시도해 주세요.\n\n점검일자 : 04월 25일\n점검시간 : 00:00 ~ 02:00\n\n감사합니다.",
+            "MinimumVersion": "1",
+            "RecommendedVersion": "1",
+            "PackageVersion": "0.0.1",
+            "WhiteLists": [],
+            "ServerGroupId": "1",
+            "ConnectionString": "https://dev.maxlevelreturnee.com:7011/StandardPacket/",
+            "TestConnectionString": "https://dev.maxlevelreturnee.com:7011/StandardPacket/"
+        }
+   }
+}
