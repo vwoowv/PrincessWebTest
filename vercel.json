@@ -1,7 +1,16 @@
 {
   "headers": [
-    { "source": "/:path*.wasm", "headers": [{ "key": "Content-Type", "value": "application/wasm" }] },
-    { "source": "/:path*.data", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }] },
-    { "source": "/:path*.unityweb", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }] }
+    { "source": "/(.*)\.wasm$", "headers": [
+      { "key": "Content-Type", "value": "application/wasm" },
+      { "key": "Content-Encoding", "value": "identity" }
+    ]},
+    { "source": "/(.*)\.data$", "headers": [
+      { "key": "Content-Type", "value": "application/octet-stream" },
+      { "key": "Content-Encoding", "value": "identity" }
+    ]},
+    { "source": "/(.*)\.unityweb$", "headers": [
+      { "key": "Content-Type", "value": "application/octet-stream" },
+      { "key": "Content-Encoding", "value": "identity" }
+    ]}
   ]
 }
