@@ -1,16 +1,9 @@
 {
   "headers": [
-    { "source": "/(.*)\\.wasm$", "headers": [
-      { "key": "Content-Type", "value": "application/wasm" },
-      { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate, no-transform" }
-    ]},
-    { "source": "/(.*)\\.data$", "headers": [
-      { "key": "Content-Type", "value": "application/octet-stream" },
-      { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate, no-transform" }
-    ]},
-    { "source": "/(.*)\\.unityweb$", "headers": [
-      { "key": "Content-Type", "value": "application/octet-stream" },
-      { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate, no-transform" }
-    ]}
+    { "source": "/(.*)\\.wasm$", "headers": [{ "key": "Content-Type", "value": "application/wasm" }]},
+    { "source": "/(.*)\\.data$", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }]},
+    { "source": "/(.*)\\.unityweb$", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }]},
+    { "source": "/(.*)\\.framework\\.js$", "headers": [{ "key": "Content-Type", "value": "application/javascript; charset=utf-8" }]},
+    { "source": "/(.*)\\.loader\\.js$", "headers": [{ "key": "Content-Type", "value": "application/javascript; charset=utf-8" }]}
   ]
 }
