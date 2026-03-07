@@ -1,0 +1,7 @@
+{
+  "headers": [
+    { "source": "/:path*.wasm", "headers": [{ "key": "Content-Type", "value": "application/wasm" }] },
+    { "source": "/:path*.data", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }] },
+    { "source": "/:path*.unityweb", "headers": [{ "key": "Content-Type", "value": "application/octet-stream" }] }
+  ]
+}
