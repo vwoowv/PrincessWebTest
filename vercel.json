@@ -1,4 +1,10 @@
 {
+  "rewrites": [
+    {
+      "source": "/Config/DEV/Maintenance",
+      "destination": "https://fvg4eiwm4017.edge.naverncp.com/Config/DEV/Maintenance"
+    }
+  ],
   "headers": [
     { "source": "/(.*)", "headers": [
       { "key": "Access-Control-Allow-Origin", "value": "*" },
