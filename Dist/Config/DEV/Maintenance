@@ -8,8 +8,8 @@
             "PackageVersion": "0.0.1",
             "WhiteLists": [],
             "ServerGroupId": "1",
-            "ConnectionString": "http://dev.maxlevelreturnee.com:7011/StandardPacket/",
-            "TestConnectionString": "http://dev.maxlevelreturnee.com:7011/StandardPacket/"
+            "ConnectionString": "https://dev.maxlevelreturnee.com:7011/StandardPacket/",
+            "TestConnectionString": "https://dev.maxlevelreturnee.com:7011/StandardPacket/"
         }
    }
 }
